@@ -3,8 +3,8 @@ title: About
 date: 2026-10-30
 description: このWebサイトについて紹介します。
 draft: false
-tomos_github_document_id: 7c9eca30-04f0-4158-9f65-470ece0e691c
 published: 2026-10-30T13:08:11Z
+tomos_github_document_id: 7c9eca30-04f0-4158-9f65-470ece0e691c
 ---
 
 ![prof](https://kyrie-eleison.net/wp-content/uploads/2024/01/qtlnou0o_400x400.png)
@@ -32,11 +32,6 @@ URL：https://seelsorge1225.github.io/kyrie/
 サイト名：Kyrie.
 ↓ バナーのみお持ち帰りいただけます。直リンク可
 ![bannar](https://kyrie-eleison.net/wp-content/uploads/2025/04/kyrie_eleison_banner.png)
-
-### Site Map
-HOME：サイトのトップページです。最新記事からお読みいただけます
-About：このページです。
-seelsorge：黙想文や日記などの雑記置き場。Tomosを使ったミニブログ。
 
 ### 著作権・引用について
 本サイトに掲載されている解説、黙想文、エッセイなどの文章は、特に記載のない限り、サイト管理者である峰が執筆したものです。
