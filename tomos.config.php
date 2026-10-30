@@ -21,13 +21,13 @@ if (!is_string($tomosRoot) || trim($tomosRoot) === '') {
 return [
     'site' => [
         'name' => 'Kyrie.',
-        'description' => '',
+        'description' => 'Christian,Bible,devotion,and...',
         'url' => 'https://' . $owner . '.github.io',
         'base_path' => $basePath,
         'language' => 'ja',
     ],
     'theme' => [
-        'name' => 'tomos-minimal',
+        'name' => 'kyrie-tomos',
     ],
     'paths' => [
         'content_dir' => __DIR__ . '/content',
