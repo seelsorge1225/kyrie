@@ -21,7 +21,7 @@ if (!is_string($tomosRoot) || trim($tomosRoot) === '') {
 return [
     'site' => [
         'name' => 'Kyrie.',
-        'description' => 'Christian,Bible,devotion,and...',
+        'description' => 'Christian,Bible,devotion,and Thinking',
         'url' => 'https://' . $owner . '.github.io',
         'base_path' => $basePath,
         'language' => 'ja',
