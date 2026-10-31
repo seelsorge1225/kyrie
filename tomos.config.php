@@ -27,7 +27,7 @@ return [
         'language' => 'ja',
     ],
     'theme' => [
-        'name' => 'kyrie-tomos',
+        'name' => 'tomos-dark',
     ],
     'paths' => [
         'content_dir' => __DIR__ . '/content',
