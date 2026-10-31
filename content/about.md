@@ -42,7 +42,7 @@ URL：https://seelsorge1225.github.io/kyrie/
 
 ### Contact
 
-mail: kyrie.eleison.net@gmail.com
+mail: kyrie.eleison.net @ gmail.com
 
 ### Traditional Christian Church – not a cult
 伝統的・正統派（カルトでない）キリスト教会の一覧です（これが全てではありません）。
