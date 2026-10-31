@@ -12,7 +12,7 @@ if (!is_string($siteName) || trim($siteName) === '') {
     $siteName = $repository;
 }
 
-$basePath = $repository = '' ;
+$basePath = '' ;
 $tomosRoot = getenv('TOMOS_ROOT');
 if (!is_string($tomosRoot) || trim($tomosRoot) === '') {
     throw new RuntimeException('TOMOS_ROOT must point to the pinned Tomos checkout.');
