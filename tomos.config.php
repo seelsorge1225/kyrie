@@ -12,7 +12,7 @@ if (!is_string($siteName) || trim($siteName) === '') {
     $siteName = $repository;
 }
 
-$basePath = '' ;
+$basePath = $repository === $owner . '.github.io' ? '' : '/' . $repository;
 $tomosRoot = getenv('TOMOS_ROOT');
 if (!is_string($tomosRoot) || trim($tomosRoot) === '') {
     throw new RuntimeException('TOMOS_ROOT must point to the pinned Tomos checkout.');
@@ -22,7 +22,7 @@ return [
     'site' => [
         'name' => 'Kyrie.',
         'description' => 'Christian,Bible,and Thinking',
-        'url' => 'https://kyrie.kyrie-eleison.net',
+               'url' => 'https://' . $owner . '.github.io',
         'base_path' => $basePath,
         'language' => 'ja',
     ],
