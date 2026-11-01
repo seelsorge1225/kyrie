@@ -8,7 +8,7 @@ draft: false
 tags:
   - devotion
   - 旧約聖書
-  - 詩篇
+  - 詩編
 published: 2026-11-01T07:13:44+00:00
 ---
 # 詩編‬ ‭119‬:‭11‬
