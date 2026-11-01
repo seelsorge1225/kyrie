@@ -75,7 +75,7 @@ return [
         'language' => 'ja',
     ],
     'theme' => [
-        'name' => 'tomos-blog',
+        'name' => 'kyrie-tomos-edit',
     ],
     'paths' => [
         'content_dir' => __DIR__ . '/content',
