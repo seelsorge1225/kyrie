@@ -1,7 +1,7 @@
 ---
 title: "ブローガスト2026に参加して"
 date: 2026-08-30
-folder: lectio
+folder: thinking
 slug: "blaugust-2026-finished"
 link: "https://kyrie-eleison.net/2026/08/30/blaugust-2026-finished/"
 author: "峰(mine)"
