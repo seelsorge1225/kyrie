@@ -1,11 +1,12 @@
 ---
-title: "ポモドーロタイマーが使いづらい"
+title: ポモドーロタイマーが使いづらい
 date: 2024-02-23
 folder: thinking
-slug: "pomodorotimer-is-hard-to-use"
-link: "https://kyrie-eleison.net/2024/02/23/pomodorotimer-is-hard-to-use/"
-author: "峰(mine)"
-categories: 
+slug: pomodorotimer-is-hard-to-use
+link: https://kyrie-eleison.net/2024/02/23/pomodorotimer-is-hard-to-use/
+author: 峰(mine)
+categories:
+tags:
   - diary
 published: 2026-11-01T08:15:03+00:00
 ---
