@@ -1,13 +1,14 @@
 ---
-title: "必ず愛は勝つ【牧師エッセイ】"
+title: 必ず愛は勝つ【牧師エッセイ】
 date: 2024-02-01
 folder: devotion
-slug: "love-wins-in-the-end"
-link: "https://kyrie-eleison.net/2024/02/01/love-wins-in-the-end/"
-author: "峰(mine)"
-featured_image: "https://kyrie-eleison.net/wp-content/uploads/2024/02/POCH-1015-e1550850561198-940x555-1.jpg"
-tags: 
+slug: love-wins-in-the-end
+link: https://kyrie-eleison.net/2024/02/01/love-wins-in-the-end/
+author: 峰(mine)
+featured_image: https://kyrie-eleison.net/wp-content/uploads/2024/02/POCH-1015-e1550850561198-940x555-1.jpg
+tags:
   - essay
+  - キリスト教
 published: 2026-11-01T08:06:33+00:00
 ---
 
