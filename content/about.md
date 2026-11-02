@@ -44,6 +44,12 @@ URL：https://seelsorge1225.github.io/kyrie/
 
 mail: kyrie.eleison.net @ gmail.com
 
+
+### Social
+
+- [「Bluesky」： @kyrie-eleison.net](https://bsky.app/profile/did:plc:qulc53omr7mz6tv7uegijpt6)
+- [「WORDSWORLD」](https://wordsworld.kyrie-eleison.net/)：創作小説のサイト。以前書いてたやつ
+
 ### Traditional Christian Church – not a cult
 伝統的・正統派（カルトでない）キリスト教会の一覧です（これが全てではありません）。
 ご興味のある方はこちらから各教派のホームページにアクセスできます。
