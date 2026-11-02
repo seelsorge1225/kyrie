@@ -18,7 +18,7 @@ published: 2026-11-02T11:46:41+00:00
 「EasyDeliveryCo.」というゲームをクリアした。  
 steamでのユーザー評価がすごく良いということで気になっていたのだが、日本語対応・スマホアプリ移植版が出たということでプレイ。
 
-https://www.youtube.com/embed/sYI1A63Xf0A?feature=oembed
+https://youtu.be/sYI1A63Xf0A?si=AnLRoZ_wc2lLL6ke
 
 一言で感想を言えば、本当に最高のゲームだった。  
 途中まではネタバレなしで書いていくので(ネタバレは折りたたんであります)、気になった人は是非プレイしてほしい。
