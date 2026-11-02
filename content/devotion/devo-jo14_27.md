@@ -8,6 +8,7 @@ draft: false
 tags:
   - devotion
   - ヨハネ福音書
+  - 新約聖書
 published: 2026-11-01T07:11:58+00:00
 ---
 ## ヨハネによる福音書 14:27
