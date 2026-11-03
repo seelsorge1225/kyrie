@@ -49,6 +49,7 @@ mail: kyrie.eleison.net @ gmail.com
 
 - [Bluesky： @kyrie-eleison.net](https://bsky.app/profile/did:plc:qulc53omr7mz6tv7uegijpt6)
 - [Mastodon(fedibird.com)：@mountrev@fedibird.com](https://fedibird.com/web/accounts/111664519035738340/about#)
+- [OFUSEで応援する](https://ofuse.me/seelsorge/letter)
 
 ### Traditional Christian Church – not a cult
 伝統的・正統派（カルトでない）キリスト教会の一覧です（これが全てではありません）。
