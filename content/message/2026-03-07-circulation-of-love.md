@@ -1,5 +1,6 @@
 ---
 title: "川の流れのように"
+date: 2026-03-07
 folder: message
 status: "publish"
 slug: "circulation-of-love"
@@ -10,7 +11,6 @@ categories:
 tags: 
   - "使徒書"
   - 新約聖書
-date: 2026-11-03
 published: 2026-11-03T02:48:55+00:00
 ---
 *善を行い、良い行いに富み、物惜しみをせず、喜んで分け与えるように。*
