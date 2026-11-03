@@ -8,7 +8,6 @@ draft: false
 tags:
   - devotion
   - 旧約聖書
-  - 歴代誌
 published: 2026-11-01T07:17:25+00:00
 ---
 # 歴代誌下20:17
