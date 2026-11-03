@@ -98,7 +98,7 @@ if (is_dir($tomosBrandingSource)) {
 return [
     'site' => [
         'name' => 'Kyrie.',
-        'description' => 'Christian,Bible,Thinking',
+        'description' => 'Christian,Bible,and Thinking',
                'url' => $siteUrl,
         'base_path' => $basePath,
         'language' => 'ja',
