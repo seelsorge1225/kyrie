@@ -1,7 +1,7 @@
 ---
 title: "わたしたちには力がある"
 date: 2026-02-21
-folder: thinking
+folder: message
 slug: "i-have-the-power"
 link: "https://kyrie-eleison.net/2026/02/21/i-have-the-power/"
 author: "峰(mine)"
