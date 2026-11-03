@@ -28,7 +28,7 @@ tomos_github_document_id: 7c9eca30-04f0-4158-9f65-470ece0e691c
 当サイトのリンクについてはご自由にどうぞ。
 報告は不要ですが、教えていただければ喜びます。
 
-URL：https://seelsorge1225.github.io/kyrie/
+URL：https://kyrie-eleison.net
 サイト名：Kyrie.
 ↓ バナーのみお持ち帰りいただけます。直リンク可
 ![bannar](https://raw.githubusercontent.com/seelsorge1225/kyrie/refs/heads/main/kyrie_eleison_banner.png)
