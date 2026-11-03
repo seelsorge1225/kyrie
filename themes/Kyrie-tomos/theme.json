@@ -1,0 +1,8 @@
+{
+  "name": "Kyrie-tomos",
+  "display_name": "Kyrie-tomos",
+  "version": "0.1.0",
+  "description": "kyrie.風の一カラム・上部ヘッダー・横並びナビゲーションのテーマ。",
+  "author": "Kazune Noguchi",
+  "requires_tomos": "0.6.0"
+}
