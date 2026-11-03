@@ -13,7 +13,7 @@ tags:
 published: 2026-11-02T11:46:41+00:00
 ---
 
-![](https://kyrie-eleison.net/wp-content/uploads/2026/05/EasyDelivery_20260512-235236-1024x461.jpg)
+![EasyDelivery_20260512-235236-1024x461.jpg](https://pub-aa20ad6e84bc4a38a975f3fbc60a3e30.r2.dev/2026/EasyDelivery_20260512-235236.jpg)
 
 「EasyDeliveryCo.」というゲームをクリアした。  
 steamでのユーザー評価がすごく良いということで気になっていたのだが、日本語対応・スマホアプリ移植版が出たということでプレイ。
@@ -55,7 +55,7 @@ https://youtu.be/sYI1A63Xf0A?si=AnLRoZ_wc2lLL6ke
 分かりづらいのが体力ゲージとガソリンゲージ。  
 小さいしパッとわかるような見た目じゃないので、最初は分かりづらいかもしれない。
 
-![](https://kyrie-eleison.net/wp-content/uploads/2026/05/EasyDelivery_20260512-2326252.jpg)
+![EasyDelivery_20260512-2326252.jpg](https://pub-aa20ad6e84bc4a38a975f3fbc60a3e30.r2.dev/2026/EasyDelivery_20260512-2326252.jpg)
 
 ガソリンは右側の「F」と「E」の文字があるメーターで表示されている。  
 満タンだとFのところにカーソルがあり、Eにくるとガソリン切れだ。ガソリンが少なくなるとスピードが出せなくなる。  
