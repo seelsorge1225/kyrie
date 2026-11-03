@@ -1,7 +1,7 @@
 ---
 title: About
 date: 2026-10-30
-description: このWebサイトについて紹介します。
+description: About,profile,social,Link
 draft: false
 published: 2026-10-30T13:08:11Z
 tomos_github_document_id: 7c9eca30-04f0-4158-9f65-470ece0e691c
