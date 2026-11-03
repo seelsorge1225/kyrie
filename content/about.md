@@ -7,7 +7,7 @@ published: 2026-10-30T13:08:11Z
 tomos_github_document_id: 7c9eca30-04f0-4158-9f65-470ece0e691c
 ---
 
-![prof](https://kyrie-eleison.net/wp-content/uploads/2024/01/qtlnou0o_400x400.png)
+![2a09cd1f-a8a8-47b9-8911-9c0bcb203c1c-1_all_8434](files/article-d6804a90f843/tms-12d209ef058ddc5c.jpg)
 
 ### 峰（mine）
 
