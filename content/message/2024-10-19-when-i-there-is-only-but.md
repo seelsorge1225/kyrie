@@ -1,8 +1,7 @@
 ---
 title: "これだけしかない、と思うときに"
 date: 2024-10-19
-type: "post"
-status: "publish"
+folder: message
 slug: "when-i-there-is-only-but"
 link: "https://kyrie-eleison.net/2024/10/19/when-i-there-is-only-but/"
 author: "峰(mine)"
