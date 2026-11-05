@@ -1,8 +1,7 @@
 ---
 title: "祈っておしまい、になってない？"
 date: 2025-04-02
-type: "post"
-status: "publish"
+folder: message
 slug: "endless-prayer"
 link: "https://kyrie-eleison.net/2025/04/02/endless-prayer/"
 author: "峰(mine)"
