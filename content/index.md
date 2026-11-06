@@ -1,5 +1,5 @@
 ---
-title: Welcome,  "kyrie."
+title: Welcome,  kyrie.
 date: 2026-10-30
 description: 峰牧師によるサイトです。聖書やキリスト教について書いています。
 draft: false
