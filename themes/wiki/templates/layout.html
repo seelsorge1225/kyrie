@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="{{ page.language }}">
+<head>
+  {{{ site.analytics_html }}}
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {{{ page.seo_head_html }}}
+  <link rel="icon" href="{{ theme.favicon_url }}" type="{{ theme.favicon_type }}">
+  <link rel="stylesheet" href="{{ theme.asset_url }}/style.css?v={{ theme.asset_version }}">
+</head>
+<body>
+  <header class="wiki-header">
+    <div class="wiki-header-inner">
+      <a class="wiki-site-title" href="{{ site.home_url }}">{{ site.name }}</a>
+
+      <form class="wiki-search" action="{{ site.home_url }}search/" method="get" role="search">
+        <label class="wiki-visually-hidden" for="wiki-search-query">サイト内検索</label>
+        <input id="wiki-search-query" type="search" name="q" placeholder="キーワードを検索">
+        <button type="submit">検索</button>
+      </form>
+
+      <nav class="wiki-header-nav" aria-label="主要ページ">
+        <a href="{{ nav.all_url }}">すべての項目</a>
+        <a href="{{ site.home_url }}tags/">タグ一覧</a>
+      </nav>
+    </div>
+  </header>
+
+  <div class="wiki-layout">
+    <aside class="wiki-sidebar" aria-label="サイトナビゲーション">
+      <section class="wiki-side-section wiki-navigation">
+        <h2>ナビゲーション</h2>
+        <nav aria-label="サイト全体のナビゲーション">
+          <a href="{{ nav.home_url }}">トップ</a>
+          <a href="{{ nav.all_url }}">すべての項目</a>
+          <a href="{{ site.home_url }}tags/">タグ一覧</a>
+          <a href="{{ nav.about_url }}">このサイトについて</a>
+        </nav>
+      </section>
+
+      {{# tag.items }}
+        {{# first }}
+      <section class="wiki-side-section wiki-major-tags">
+        <h2>主要なタグ</h2>
+        <ul class="wiki-major-tag-list">
+        {{/ first }}
+          <li style="order: -{{ count }};"><a href="{{ url }}">{{ name }}</a></li>
+        {{# last }}
+        </ul>
+      </section>
+        {{/ last }}
+      {{/ tag.items }}
+
+    </aside>
+
+    <main class="wiki-main">
+      {{{ page.body }}}
+    </main>
+
+    <aside class="wiki-aside" aria-label="記事の補助情報">
+      {{# page.toc }}
+      <section id="page-toc" class="wiki-side-section wiki-toc">
+        <h2>目次</h2>
+        {{{ page.toc }}}
+      </section>
+      {{/ page.toc }}
+
+      {{# page.related_items }}
+        {{# first }}
+      <section class="wiki-side-section wiki-related">
+        <h2>関連項目</h2>
+        <ul class="wiki-related-items">
+        {{/ first }}
+          <li><a href="{{ url }}">{{ title }}</a></li>
+        {{# last }}
+        </ul>
+      </section>
+        {{/ last }}
+      {{/ page.related_items }}
+
+      {{# page.tags_html }}
+      <section class="wiki-side-section wiki-tags">
+        <h2>タグ</h2>
+        {{{ page.tags_html }}}
+      </section>
+      {{/ page.tags_html }}
+    </aside>
+  </div>
+
+  <footer class="wiki-footer">
+    <p>Powered by Tomos</p>
+  </footer>
+</body>
+</html>
