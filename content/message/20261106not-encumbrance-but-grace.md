@@ -3,7 +3,7 @@ title: それって、恵みなんじゃない？
 folder: message
 date: 2026-11-07
 updated:
-description:
+description: ルカによる福音書 10:2からのミニメッセージ
 tags:
   - 新約聖書
   - ルカ福音書
