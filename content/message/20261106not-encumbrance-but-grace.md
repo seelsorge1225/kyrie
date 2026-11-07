@@ -1,5 +1,5 @@
 ---
-title: それって重荷じゃなくて、恵みなんじゃない？
+title: それって、恵みなんじゃない？
 folder: message
 date: 2026-11-07
 updated:
