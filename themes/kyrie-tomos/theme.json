@@ -1,0 +1,8 @@
+{
+  "name": "kyrie-tomos",
+  "display_name": "Kyrie-tomos",
+  "version": "0.2.1",
+  "description": "kyrie.風のテーマ。PCは左にメニューを置く二カラム、スマホは一カラム。",
+  "author": "Kazune Noguchi",
+  "requires_tomos": "0.6.0"
+}
