@@ -55,7 +55,7 @@ Tomosテーマを独自で作るのが楽しい。
 ogp画像、faviconの画像もこれとはまた別に設定できます。
 
 こちら↓からダウンロードできるので試したい人はぜひ。
-https://verba.kyrie-eleison.net/content/tomossns.zip
+[https://github.com/seelsorge1225/tomos-sns/releases](https://github.com/seelsorge1225/tomos-sns/releases)
 今後サポートする気はないし、テーマの著作権とかも特に主張する気はないので、この中身をベースに自由にいじくり回してもろて大丈夫です。
 
 
