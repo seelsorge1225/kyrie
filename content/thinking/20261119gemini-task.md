@@ -22,8 +22,9 @@ Androidを使っているのでGeminiが標準搭載されているのだが、�
 
 ![20261119gemini-task02.png](https://pub-aa20ad6e84bc4a38a975f3fbc60a3e30.r2.dev/2026/20261119gemini-task02.png)
 これは仮のタスク一覧なのだが、こんな感じでいつもタスクを入力している。
-obsidianのプラグインに「[Checklist](obsidian://show-plugin?id=obsidian-checklist-plugin)」というのがあり、#todo タグの直下にあるチェックボックスを一覧にして表示してくれるプラグインなのだが、**リマインド（通知）機能はない**。（それはそう）
-もちろん通知を出してくれるプラグインもあるのだが、通知設定をした時間にobsidianを起動していないと通知が来ないので、使い勝手が悪いのだ。
+obsidianのプラグインに「[Checklist](https://github.com/delashum/obsidian-checklist-plugin)」というのがあり、#todo タグの直下にあるチェックボックスを一覧にして表示してくれるプラグインなのだが、**リマインド（通知）機能はない**。（それはそう）
+もちろん通知を出してくれるプラグインもあ
+るのだが、通知設定をした時間にobsidianを起動していないと通知が来ないので、使い勝手が悪いのだ。
 
 というわけで、こうやっていつもタスク一覧をまとめているマークダウンファイルを自動で読み取って、GoogleToDoリストに自動で追加してくれ！というのをGeminiにお願いしたわけである。
 
