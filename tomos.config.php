@@ -104,7 +104,7 @@ return [
         'language' => 'ja',
     ],
     'theme' => [
-        'name' => 'tomos-album',
+        'name' => 'kyrie-tomos',
     ],
     'paths' => [
         'content_dir' => __DIR__ . '/content',
