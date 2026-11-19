@@ -3,7 +3,7 @@ title: Geminiを使ってobisidianのチェックボックスをGoogleTodoリス
 folder: thinking
 date: 2026-11-19
 updated:
-description:
+description: Geminiのtaskタブを使ってobisidianのチェックボックスで管理していたタスク一覧をGoogleTodoリストにも自動登録して通知が来るようにしたのでその方法。
 tags:
   - app
 published: 2026-11-19T02:32:29+00:00
