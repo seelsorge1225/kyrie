@@ -7,7 +7,7 @@ published: 2026-10-30T13:08:11Z
 tomos_github_document_id: 7c9eca30-04f0-4158-9f65-470ece0e691c
 ---
 
-![2a09cd1f-a8a8-47b9-8911-9c0bcb203c1c-1_all_8434](files/article-d6804a90f843/tms-12d209ef058ddc5c.jpg)
+![2a09cd1f-a8a8-47b9-8911-9c0bcb203c1c-1_all_1712](files/article-d6804a90f843/tms-b1fc6157e4a453e2.png)
 
 ### 峰（mine）
 
@@ -49,6 +49,7 @@ mail: kyrie.eleison.net @ gmail.com
 
 - [Bluesky： @kyrie-eleison.net](https://bsky.app/profile/did:plc:qulc53omr7mz6tv7uegijpt6)
 - [Mastodon(fedibird.com)：@mountrev@fedibird.com](https://fedibird.com/web/accounts/111664519035738340/about#)
+- [photographia](https://photographia.kyrie-eleison.net/)：峰のお一人様写真SNS
 - [OFUSEで応援する](https://ofuse.me/seelsorge/letter)
 
 ### Traditional Christian Church – not a cult
